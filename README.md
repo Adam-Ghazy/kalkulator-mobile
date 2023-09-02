@@ -5,7 +5,7 @@ kalkulator sederhana yang saya buat menggunakan Flutter. Aplikasi ini memungkink
 Berikut step by stepnya..
 
 ### syarat
-Pastika perangkat yang akan kamu gunakan untuk menjalankan program ini telah terinstall flutter bangg...
+Pastikan perangkat yang akan kamu gunakan untuk menjalankan program ini telah terinstall flutter bangg...
 
 Step 1: Clone repo ini
 ```
