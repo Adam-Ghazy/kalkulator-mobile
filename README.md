@@ -9,12 +9,12 @@ Pastikan perangkat yang akan kamu gunakan untuk menjalankan program ini telah te
 
 Step 1: Clone repo ini
 ```
-git clone https://github.com/namapengguna/kalkulator-flutter.git
+git clone https://github.com/Adam-Ghazy/kalkulator-mobile.git
 ```
 Step 2: Pindah ke Direktori/folder project ini
 Masuk ke direktori proyek dengan perintah:
 ```
-cd kalkulator-flutter
+cd kalkulator-mobile
 ```
 Step 3: Menjalankan Aplikasi
 Hubungkan perangkat android atau emulator android dan jalankan perintah:
