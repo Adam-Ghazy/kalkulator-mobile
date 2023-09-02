@@ -1,13 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:kalkulator/kalkulator.dart';
 
 void main() {
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  Widget build(BuildContext ctx) {
+  @override
+  Widget build(BuildContext context) {
     return MaterialApp(
-      home: Text('Hello Flutter'),
+      debugShowCheckedModeBanner: false,
+      home: HomePage(),
     );
   }
 }
